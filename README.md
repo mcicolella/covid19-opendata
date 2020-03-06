@@ -4,6 +4,7 @@
 
 * [COVID-19 Coronavirus data - Datasets](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data) by EU Data portal
 * [Covid 19 Italia](https://github.com/ondata/covid19italia)
+* [Italian Covid Data Time Series](https://github.com/DavideMagno/ItalianCovidData) By Davide Magno
 
 
 ### Dashboard
