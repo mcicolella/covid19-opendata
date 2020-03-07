@@ -8,6 +8,9 @@
 * [Italian Covid Data Time Series](https://github.com/DavideMagno/ItalianCovidData) By Davide Magno
 * [Novel Coronavirus SARS-CoV-2 (2019-nCoV) Italian Outbreak Data Repository](https://github.com/sarscov2-it/data) by Simone Marzola
 
+### APIs
+
+* https://github.com/enrichman/covid19 by @enrichman
 
 ### Dashboard
 
