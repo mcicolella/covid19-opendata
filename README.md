@@ -17,4 +17,5 @@
 * [COVID 19 Dashboard Italia](https://alessiodl.github.io/COVID19Dashboard/dist/index.html) by Alessio Di Lorenzo 
 * [Cruscotto Protezione Civile - Versione Desktop](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1) by Protezione Civile
 * [Cruscotto Protezione Civile - Versione Mobile](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/dae18c330e8e4093bb090ab0aa2b4892) by Protezione Civile
+* [Global pandemic. COVID-19 disease caused by SARS-CoV-2 coronavirus](https://avatorl.org/covid-19/?fbclid=IwAR1XSSnxizvvHCwBr_hPWsh_eyak2SE2hTFfKKLfeQLl2jGLIqQN3Ni8cSg) by Andrzej Leszkiewicz
 * [Incremento giornaliero contagi, per provincia](https://datastudio.google.com/u/0/reporting/9f0b865e-bb18-4894-a7f4-acca6467c641/page/OnNHB?s=pkXn62iU3rQ) by Alfredo Morresi - rainbowbreeze.it 
