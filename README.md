@@ -14,6 +14,7 @@
 
 ### Dashboard
 
+* [CoronavirusItalia COVID-19](https://public.tableau.com/profile/giovanni.caputo#!/vizhome/COVID-19_15836095988890/NewDashboard?publish=yes) by Giovanni Caputo
 * [COVID 19 Dashboard Italia](https://alessiodl.github.io/COVID19Dashboard/dist/index.html) by Alessio Di Lorenzo 
 * [Covid19 Progressivo contagio per Province](http://www.piersoft.it/covid19/?fbclid=IwAR0vOPg4mZo13EohAWPnxdcJ4wLaernEO5GDRFM1C98JtVIBe-wZbNh7DV0) by Piersoft
 * [Cruscotto Protezione Civile - Versione Desktop](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1) by Protezione Civile
