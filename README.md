@@ -15,6 +15,7 @@
 ### Dashboard
 
 * [COVID 19 Dashboard Italia](https://alessiodl.github.io/COVID19Dashboard/dist/index.html) by Alessio Di Lorenzo 
+* [Covid19 Progressivo contagio per Province](http://www.piersoft.it/covid19/?fbclid=IwAR0vOPg4mZo13EohAWPnxdcJ4wLaernEO5GDRFM1C98JtVIBe-wZbNh7DV0) by Piersoft
 * [Cruscotto Protezione Civile - Versione Desktop](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1) by Protezione Civile
 * [Cruscotto Protezione Civile - Versione Mobile](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/dae18c330e8e4093bb090ab0aa2b4892) by Protezione Civile
 * [Global pandemic. COVID-19 disease caused by SARS-CoV-2 coronavirus](https://avatorl.org/covid-19/?fbclid=IwAR1XSSnxizvvHCwBr_hPWsh_eyak2SE2hTFfKKLfeQLl2jGLIqQN3Ni8cSg) by Andrzej Leszkiewicz
