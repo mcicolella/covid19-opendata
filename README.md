@@ -11,6 +11,7 @@
 ### APIs
 
 * https://github.com/enrichman/covid19 by @enrichman
+* [Covid-19 API](https://github.com/mathdroid/covid-19-api) by Mathdroid
 
 ### Dashboard
 
