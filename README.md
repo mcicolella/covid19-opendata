@@ -15,6 +15,7 @@
 
 ### Dashboard
 
+* [Analisi Covid-19 Italia](https://marcocortese.shinyapps.io/Covid-19Italia/)
 * [CoronavirusItalia COVID-19](https://public.tableau.com/profile/giovanni.caputo#!/vizhome/COVID-19_15836095988890/NewDashboard?publish=yes) by Giovanni Caputo
 * [Covid-19 Data Explorer](https://covid19.cwerner.ai/) by C. Werner - data source Johns Hopkins Univerity
 * [COVID 19 Dashboard Italia](https://alessiodl.github.io/COVID19Dashboard/dist/index.html) by Alessio Di Lorenzo 
