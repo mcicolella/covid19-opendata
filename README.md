@@ -26,3 +26,4 @@
 * [Diffusione del CoViD-19 in Italia](https://covid19online.it/#/dashboard) by Pierpaolo Marturano
 * [Global pandemic. COVID-19 disease caused by SARS-CoV-2 coronavirus](https://avatorl.org/covid-19/?fbclid=IwAR1XSSnxizvvHCwBr_hPWsh_eyak2SE2hTFfKKLfeQLl2jGLIqQN3Ni8cSg) by Andrzej Leszkiewicz
 * [Incremento giornaliero contagi, per provincia](https://datastudio.google.com/u/0/reporting/9f0b865e-bb18-4894-a7f4-acca6467c641/page/OnNHB?s=pkXn62iU3rQ) by Alfredo Morresi - rainbowbreeze.it 
+* [Spread of Covid-19 in Italy](https://gianmarco-todesco.github.io/covid-19-it-viewer/) by Gianmarco Tedesco
