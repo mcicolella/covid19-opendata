@@ -22,6 +22,7 @@
 * [COVID-19 Dashboard](https://dashboard.covid19med.it/) by covid19med
 * [COVID 19 Dashboard Italia](https://alessiodl.github.io/COVID19Dashboard/dist/index.html) by Alessio Di Lorenzo 
 * [COVID-19 Italia](https://www.freney.com/covid-italia.php) by Freney Srl
+* [COVID-19 Italy](https://heyteacher.github.io/COVID-19/#/) by Hey Teacher
 * [COVID-19 Mondo](https://www.freney.com/covid-mondo.php) by Freney Srl
 * [Covid19 Progressivo contagio per Province](http://www.piersoft.it/covid19/?fbclid=IwAR0vOPg4mZo13EohAWPnxdcJ4wLaernEO5GDRFM1C98JtVIBe-wZbNh7DV0) by Piersoft
 * [Covid Live](https://www.covidlive.it/) by @giacomo.alonzi
