@@ -33,4 +33,5 @@
 * [Incremento giornaliero contagi, per provincia](https://datastudio.google.com/u/0/reporting/9f0b865e-bb18-4894-a7f4-acca6467c641/page/OnNHB?s=pkXn62iU3rQ) by Alfredo Morresi - rainbowbreeze.it 
 * [#IoRestoACasa](https://restoacasa.github.io/)
 * [Report COVID-19 Italia](https://msit.powerbi.com/view?r=eyJrIjoiMjhlZDBhNWUtNThhMC00MzZkLWJmNGEtMmQ4ZjI5ZjhlZDI1IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9) by Donato Pasqualicchio
+* [Situazione sanitaria emergenza COVID-19 Provincia Autonoma di Trento](https://covid19trentino.fbk.eu/) by APSS - Azienda Provinciale per i Servizi Sanitari
 * [Spread of Covid-19 in Italy](https://gianmarco-todesco.github.io/covid-19-it-viewer/) by Gianmarco Tedesco
