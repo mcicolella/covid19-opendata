@@ -27,6 +27,7 @@
 * [COVID-19 Mondo](https://www.freney.com/covid-mondo.php) by Freney Srl
 * [Covid19 Progressivo contagio per Province](http://www.piersoft.it/covid19/?fbclid=IwAR0vOPg4mZo13EohAWPnxdcJ4wLaernEO5GDRFM1C98JtVIBe-wZbNh7DV0) by Piersoft
 * [Covid Live](https://www.covidlive.it/) by @giacomo.alonzi
+* [COVIDash](https://www.covidash.it) by @fabriziomiano
 * [Cruscotto Protezione Civile - Versione Desktop](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1) by Protezione Civile
 * [Cruscotto Protezione Civile - Versione Mobile](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/dae18c330e8e4093bb090ab0aa2b4892) by Protezione Civile
 * [Cura Italia](https://www.curaitalia.it/) by Riccardo Borchi
