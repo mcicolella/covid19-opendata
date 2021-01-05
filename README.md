@@ -16,6 +16,7 @@
 ### Dashboard
 
 * [Analisi Covid-19 Italia](https://marcocortese.shinyapps.io/Covid-19Italia/)
+* [Controlli Polizia Covid 19](https://github.com/dej611/controlli-polizia-covid-19) by Marco Liberati
 * [CoronavirusItalia COVID-19](https://public.tableau.com/profile/giovanni.caputo#!/vizhome/COVID-19_15836095988890/NewDashboard?publish=yes) by Giovanni Caputo
 * [Coronavirus in Italia, i dati e la mappa](https://lab24.ilsole24ore.com/coronavirus/) by Il Sole 24 Ore
 * [Covid-19 Data Explorer](https://covid19.cwerner.ai/) by C. Werner - data source Johns Hopkins Univerity
