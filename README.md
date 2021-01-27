@@ -42,3 +42,7 @@
 * [Report COVID-19 Italia](https://msit.powerbi.com/view?r=eyJrIjoiMjhlZDBhNWUtNThhMC00MzZkLWJmNGEtMmQ4ZjI5ZjhlZDI1IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9) by Donato Pasqualicchio
 * [Situazione sanitaria emergenza COVID-19 Provincia Autonoma di Trento](https://covid19trentino.fbk.eu/) by APSS - Azienda Provinciale per i Servizi Sanitari
 * [Spread of Covid-19 in Italy](https://gianmarco-todesco.github.io/covid-19-it-viewer/) by Gianmarco Tedesco
+
+### Vaccini
+
+* ["Vaccini per tutti" by onData](https://ondata.github.io/vaccinipertutti/?fbclid=IwAR0CGThSOvJ5A8INGkCqS8xIs565YmqKdU5c8RnOOYHWEiiWpDwwNidcPGo#)
