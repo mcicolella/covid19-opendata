@@ -45,4 +45,5 @@
 
 ### Vaccini
 
+* [VaccinazioneItalia](https://vaccinazioneitalia.it/?fbclid=IwAR3Sl3LGD9t5y-kD_6Gy6NIuL_TnU_PcP2dY0GZU3yT93ZeG_SfBvXDk6Qo)
 * ["Vaccini per tutti" by onData](https://ondata.github.io/vaccinipertutti/?fbclid=IwAR0CGThSOvJ5A8INGkCqS8xIs565YmqKdU5c8RnOOYHWEiiWpDwwNidcPGo#)
